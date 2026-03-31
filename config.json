@@ -1,0 +1,8 @@
+{
+  "voz_continua": true,
+  "resposta_voz": true,
+  "idioma_voz": "pt-BR",
+  "iniciar_com_windows": false,
+  "usar_gtts": true,
+  "cidade_clima": "Tietê"
+}
