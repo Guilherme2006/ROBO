@@ -4,5 +4,7 @@
   "idioma_voz": "pt-BR",
   "iniciar_com_windows": false,
   "usar_gtts": true,
-  "cidade_clima": "Tietê"
+  "cidade_clima": "Tietê",
+  "wake_word": "hey robô",
+  "wake_word_ativo": false
 }
